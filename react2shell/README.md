@@ -142,7 +142,7 @@ Finally, the forensic record favours defense in depth over speed alone. Patching
 
 **[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
 
-The *2Shell case files: React2Shell, PHP2Shell and CVE-2026-111497<br>
+React2Shell (CVE-2025-55182), React Server Components remote code execution<br>
 OrnisLab case file, last reviewed on 21 November 2026
 
 For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**

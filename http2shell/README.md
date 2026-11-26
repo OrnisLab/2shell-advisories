@@ -108,6 +108,25 @@ Rules to add:
 
 **Perimeter controls only cover the inbound half.** WAF and CDN rules were the first response for most teams, and they only see inbound requests. The outbound direction (your service fetching a hostile response) never reaches them. A complete HTTP2Shell response needs egress control as well.
 
+---
+
+<div align="center">
+
+<a href="https://github.com/OrnisLab"><img src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/avatar-light.png" alt="OrnisLab" width="56"></a>
+
+**[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
+
+HTTP2Shell (CVE-2026-111497), Brotli decoder flaw across HTTP stacks<br>
+OrnisLab case file, last reviewed on 21 November 2026
+
+For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**
+
+<a href="https://github.com/OrnisLab/2shell-advisories">All case files</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/SECURITY.md">Security policy</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md">Contribute</a> &nbsp;|&nbsp; <a href="https://www.isnet.net.tr">isnet.net.tr</a>
+
+<sub>OrnisLab is maintained by İşNet (İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri A.Ş.), headquartered in İstanbul, Türkiye. Each project is released under the license in its own repository.</sub>
+
+</div>
+
 **The name was misleading.** "HTTP2Shell" led some teams to check their HTTP/2 configuration and stop there. Because a name now travels faster than the advisory, we recommend triaging by CVE number, never by nickname.
 
 **Reconnaissance was well organized.** Differential probing, runtime fingerprinting and staged chaining within one day suggest that scanning operators had tooling ready before disclosure. Expect the same speed for the next library-level bug.

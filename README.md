@@ -78,6 +78,7 @@ Corrections are welcome. Open an issue or pull request that points to the vendor
 ## License
 
 The case files, text and images in this repository are licensed under [CC BY 4.0](LICENSE).
+
 ---
 
 <div align="center">

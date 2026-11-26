@@ -74,22 +74,3 @@ These files reflect public reporting and OrnisLab's analysis as of **21 November
 ## Contributing
 
 Corrections are welcome. Open an issue or pull request that points to the vendor advisory, CVE record or primary research the correction relies on.
-
----
-
-<div align="center">
-
-<a href="https://github.com/OrnisLab"><img src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/avatar-light.png" alt="OrnisLab" width="56"></a>
-
-**[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
-
-SAYFA SATIRI BURAYA<br>
-OrnisLab case file, last reviewed on 21 November 2026
-
-For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**
-
-<a href="https://github.com/OrnisLab/2shell-advisories">All case files</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/SECURITY.md">Security policy</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md">Contribute</a> &nbsp;|&nbsp; <a href="https://www.isnet.net.tr">isnet.net.tr</a>
-
-<sub>OrnisLab is maintained by İşNet (İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri A.Ş.), headquartered in İstanbul, Türkiye. Each project is released under the license in its own repository.</sub>
-
-</div>

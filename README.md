@@ -75,6 +75,9 @@ These files reflect public reporting and OrnisLab's analysis as of **21 November
 
 Corrections are welcome. Open an issue or pull request that points to the vendor advisory, CVE record or primary research the correction relies on.
 
+## License
+
+The case files, text and images in this repository are licensed under [CC BY 4.0](LICENSE).
 ---
 
 <div align="center">

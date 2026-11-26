@@ -122,3 +122,22 @@ No public report of a confirmed cloud compromise through this CVE has been publi
 **Patch status belongs to each copy, not to each host.** Tracking per host ("is this VM patched?") gave false confidence throughout this incident. Track per component instead: each runtime, sidecar and native package in each image.
 
 **This will happen again.** Compression, image, font and parsing libraries share the same profile: written in C, copied everywhere, and fed untrusted input by design. Building the Broccoli2Shell inventory once, and keeping it current, prepares an organization for the next decoder bug as much as for this one.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/OrnisLab"><img src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/avatar-light.png" alt="OrnisLab" width="56"></a>
+
+**[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
+
+Broccoli2Shell (CVE-2026-111497), finding every copy of the Brotli decoder<br>
+OrnisLab case file, last reviewed on 21 November 2026
+
+For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**
+
+<a href="https://github.com/OrnisLab/2shell-advisories">All case files</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/SECURITY.md">Security policy</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md">Contribute</a> &nbsp;|&nbsp; <a href="https://www.isnet.net.tr">isnet.net.tr</a>
+
+<sub>OrnisLab is maintained by İşNet (İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri A.Ş.), headquartered in İstanbul, Türkiye. Each project is released under the license in its own repository.</sub>
+
+</div>

@@ -132,6 +132,24 @@ Patching removes the vulnerability but not anything an attacker left behind befo
 
 **Exploitation before disclosure changes the response question.** With an attempt on 17 October, "are we patched?" was never enough. Any PHP server exposed in mid-October should be treated as potentially compromised until someone has looked for web shells and unexpected processes.
 
+---
+
+<div align="center">
+
+<a href="https://github.com/OrnisLab"><img src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/avatar-light.png" alt="OrnisLab" width="56"></a>
+
+**[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
+
+PHP2Shell (CVE-2026-109618, CVE-2026-109619), PHP engine remote code execution<br>
+OrnisLab case file, last reviewed on 21 November 2026
+
+For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**
+
+<a href="https://github.com/OrnisLab/2shell-advisories">All case files</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/SECURITY.md">Security policy</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md">Contribute</a> &nbsp;|&nbsp; <a href="https://www.isnet.net.tr">isnet.net.tr</a>
+
+<sub>OrnisLab is maintained by İşNet (İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri A.Ş.), headquartered in İstanbul, Türkiye. Each project is released under the license in its own repository.</sub>
+
+</div>
 **Default features are attack surface.** Upload progress tracking is on by default and few applications use it. Turning off defaults you do not use is cheap, and it would have blocked the most practical PHP2Shell path before anyone knew about it.
 
 **Long-tail PHP is the lasting risk.** Appliances, hosting panels and end-of-life branches embed PHP builds that their owners cannot easily patch. Expect PHP2Shell to remain in exploit kits for years, much as old Struts and Log4j bugs have.

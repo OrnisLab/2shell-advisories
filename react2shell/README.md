@@ -133,3 +133,22 @@ React2Shell shows that **internal protocols are attack surface even when undocum
 The incident also showed how hard early triage is. Fake PoCs, overlapping CVE numbers for React and Next.js, and follow-up CVEs a week later all slowed down the basic question of "are we exposed?". Our recommendation is to answer that question from dependency data (lockfiles and SBOMs) rather than from external scanning or public PoCs.
 
 Finally, the forensic record favours defense in depth over speed alone. Patching within hours was not realistic for many teams; a hardened runtime image was already in place before disclosure and decided the outcome.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/OrnisLab"><img src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/avatar-light.png" alt="OrnisLab" width="56"></a>
+
+**[OrnisLab](https://github.com/OrnisLab)**: Open Research Network for Intelligent Security
+
+The *2Shell case files: React2Shell, PHP2Shell and CVE-2026-111497<br>
+OrnisLab case file, last reviewed on 21 November 2026
+
+For more detail on the Ornis cybersecurity platforms, visit **[ornis.com.tr](https://ornis.com.tr)**
+
+<a href="https://github.com/OrnisLab/2shell-advisories">All case files</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/SECURITY.md">Security policy</a> &nbsp;|&nbsp; <a href="https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md">Contribute</a> &nbsp;|&nbsp; <a href="https://www.isnet.net.tr">isnet.net.tr</a>
+
+<sub>OrnisLab is maintained by İşNet (İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri A.Ş.), headquartered in İstanbul, Türkiye. Each project is released under the license in its own repository.</sub>
+
+</div>
